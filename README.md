@@ -1,2 +1,3 @@
 # taskmanager
-This is a react-redux app for task management in a Project
+In a galaxy far far away...
+Just kidding! This is the development branch for the app
